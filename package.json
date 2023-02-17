@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": "6.11.1"
+    "node": "18.14.1"
   },
   "homepage": "https://lemming97.github.io/React_Portfolio/",
   "dependencies": {
