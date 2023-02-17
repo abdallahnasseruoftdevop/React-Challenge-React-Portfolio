@@ -5,7 +5,7 @@
   "engines": {
     "node": "18.14.1"
   },
-  "homepage": "https://lemming97.github.io/React_Portfolio/",
+  "homepage": "https://react-challenge.herokuapp.com/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
